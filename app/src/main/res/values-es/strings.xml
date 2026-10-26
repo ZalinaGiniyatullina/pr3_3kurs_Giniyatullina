@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">IntentoCriminal</string>
+        <string name="crime_title_hint">Introduzca un título para el crimen.</string>
+        <string name="crime_title_label">Título</string>
+        <string name="crime_details_label">Detalles</string>
+        <string name="crime_solved_label">Solucionado</string>
+        <string name="new_crime">Crimen Nuevo</string>
+        <string name="crime_suspect_text">Elegir Sospechoso</string>
+        <string name="crime_report_text">Enviar el Informe del Crimen</string>
+        <string name="send_report">Enviar el informe del crimen a través de</string>
+        <string name="snackbar_solved">¡El crimen ha sido marcado como resuelto!</string>
+        <string name="snackbar_unsolved">El crimen ha sido marcado como no resuelto</string>
+        <string name="snackbar_cancel">CANCELAR</string>
+        <string name="snackbar_action_cancelled">Acción cancelada</string>
+        <string name="error_empty_title">Por favor, introduzca un título para el crimen</string>
+        <string name="error_not_solved">Por favor, marque la casilla Solucionado</string>
+        <string name="error_empty_title_and_not_solved">Por favor, introduzca un título y marque Solucionado</string>
+        <string name="date_picker_hint">Seleccionar fecha</string>
+</resources>

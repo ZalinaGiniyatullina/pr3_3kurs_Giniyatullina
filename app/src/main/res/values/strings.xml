@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="new_crime">New Crime</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="snackbar_solved">Crime marked as solved!</string>
+    <string name="snackbar_unsolved">Crime marked as unsolved</string>
+    <string name="snackbar_cancel">CANCEL</string>
+    <string name="snackbar_action_cancelled">Action cancelled</string>
+    <string name="error_empty_title">Please enter a title for the crime</string>
+    <string name="error_not_solved">Please check the Solved checkbox</string>
+    <string name="error_empty_title_and_not_solved">Please enter a title and check Solved</string>
+    <string name="date_picker_hint">Select date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
